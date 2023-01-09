@@ -2,7 +2,7 @@
 
 <img src="https://i.redd.it/eiym87nwwo941.jpg" alt='Federation Style Home' width="400"><br>
 
-The goal of this project is to better understand the __significance of certain features__ on a __property's price__ in the Perth Metropolitan Area (Western Australia), and conducting a comparison between __character homes__ and __new homes__.
+The goal of this project is to better understand the __significance of certain features__ on a __property's price__ in the Perth Metropolitan Area (Western Australia), and conducting a comparison between __character homes__ and __new homes__. 
 
 ### This repo includes the following:
 
